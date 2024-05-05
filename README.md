@@ -81,6 +81,7 @@ to advancements in technology and society as a whole."""
 ```
 
 <H3>Output</H3>
+
 ![](1.PNG)
 
 <H3>Result:</H3>
